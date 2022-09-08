@@ -9,11 +9,11 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "2c835310-dddd-4b3d-8e9b-7841c897d070"
+            "value": "6158e22d-a55a-4fe2-86b8-3db33fd94938"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/ddd/ao/blob/master/etc/CADDYIndexPage.md",
-            "value": "https://github.com/vvv1/saide/raw/main/3D.zip"
+            "value": "https://github.com/evgyu/nmgfdfgxfd/blob/main/mikutap.zip"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/ddd/ao/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/ddd/ao",
-    "repository": "https://github.com/ddd/ao",
+    "website": "",
+    "repository": "",
     "stack": "container"
 }
